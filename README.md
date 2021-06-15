@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![greggubarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=greggubarev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greggubarev&layout=compact)](https://github.com/greggubarev/github-readme-stats)
-
+![Visitor Count](https://profile-counter.glitch.me/greggubarev/count.svg)
 <!--
 **greggubarev/greggubarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
