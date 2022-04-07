@@ -1,6 +1,6 @@
 ### Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/greggubarev/count.svg)
 ![greggubarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=greggubarev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greggubarev&layout=compact)](https://github.com/greggubarev/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greggubarev&layout=compact)](https://github.com/greggubarev/github-readme-stats)-->
 ![picture](https://media.giphy.com/media/3o6gaUWK6ekJEOjdcs/giphy.gif)
 ![picture](https://media.giphy.com/media/UqzU39fBvNAqs/giphy.gif)
 
