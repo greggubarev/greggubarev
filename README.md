@@ -12,8 +12,14 @@ I'm working with **AI**, with a background in **JavaScript**/**C#** and open sou
 - 🏆 **2019:** recognized as a **freeCodeCamp Top Contributor**.
 - 🌍 **Community:** JavaScript contributor and moderator at **freeCodeCamp**.
 
-[freeCodeCamp profile](https://www.freecodecamp.org/greggubarev) · [My repositories](https://github.com/greggubarev?tab=repositories) · [My freeCodeCamp pull requests](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Agreggubarev)
+### 📖 You were here
 
+Every old-school homepage needs a guestbook.
+Leave a hello, a terrible programming joke, or something you're building.
+
+[✍️ Sign the guestbook](https://github.com/greggubarev/greggubarev/issues/new?title=%5BGuestbook%5D%20Hello!&body=Hey%20Gregory!%20%F0%9F%91%8B%0A%0A)
+&nbsp; · &nbsp;
+[📖 Read the guestbook](https://github.com/greggubarev/greggubarev/issues?q=is%3Aissue%20%22%5BGuestbook%5D%22%20in%3Atitle)
 ---
 
 ### A small piece of the old internet
