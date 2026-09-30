@@ -1,20 +1,46 @@
-### Hi there 👋 ![Visitors](https://count.getloli.com/@greggubarev?theme=nixietube-1)
-<!--![greggubarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=greggubarev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greggubarev&layout=compact)](https://github.com/greggubarev/github-readme-stats)-->
-<!--![picture](https://media.giphy.com/media/3o6gaUWK6ekJEOjdcs/giphy.gif)-->
-![picture](https://media.giphy.com/media/UqzU39fBvNAqs/giphy.gif)
+# Hey, I'm Gregory 👋
 
-<!--
-**greggubarev/greggubarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1400&color=D97732&width=600&height=45&lines=Working+with+AI.;Writing+JavaScript.;Still+debugging+the+unexpected.)
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/UqzU39fBvNAqs/giphy.gif" alt="Getting ready to work" width="400">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about me
+
+I'm working with **AI**, with a background in **JavaScript**/**C#** and open source.
+
+- 🧠 **Now:** working with AI and exploring what we can build with it.
+- 🏆 **2019:** recognized as a **freeCodeCamp Top Contributor**.
+- 🌍 **Community:** JavaScript contributor and moderator at **freeCodeCamp**.
+
+[freeCodeCamp profile](https://www.freecodecamp.org/greggubarev) · [My repositories](https://github.com/greggubarev?tab=repositories) · [My freeCodeCamp pull requests](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Agreggubarev)
+
+---
+
+### A small piece of the old internet
+
+You made it to my corner of GitHub. Here's the obligatory retro counter.
+
+![Profile views](https://count.getloli.com/@greggubarev?theme=nixietube-1)
+
+<details>
+<summary>🚪 There is probably nothing behind this door.</summary>
+
+<br>
+
+```text
+$ cd /secret
+
+You found the quiet room.
+
+       ( (
+        ) )
+      ........
+      |      |]
+      \      /
+       `----'
+
+Take a coffee.
+The bug will still be there when you get back.
+```
+
+</details>
