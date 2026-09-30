@@ -4,7 +4,7 @@
 
 ### A little about me
 
-I'm working with **AI**, with a background in **JavaScript**/**C#** and project management.
+I work with **AI**, with a background in **JavaScript**, **C#**, and project management.
 
 - 🧠 **Now:** working with AI and exploring what we can build with it.
 - 🏆 **2019:** recognized as a **freeCodeCamp Top Contributor**.
@@ -14,37 +14,65 @@ I'm working with **AI**, with a background in **JavaScript**/**C#** and project 
 
 Every square has a story. The spaceship doesn't care.
 
-![Space Shooter — my GitHub contributions](https://raw.githubusercontent.com/greggubarev/greggubarev/main/game.gif)
+![Space Shooter — my GitHub contributions](https://raw.githubusercontent.com/greggubarev/greggubarev/main/game.gif?v=2)
+
+### 👻 One more commit. One more pellet.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man running through my contribution graph" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/pacman-contribution-graph.svg">
+</picture>
+
+<details>
+<summary>💣 Minesweeper — every change is a calculated risk</summary>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/minesweeper-contribution-graph.svg">
+  <img alt="Minesweeper solving my contribution graph" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/minesweeper-contribution-graph.svg">
+</picture>
+
+</details>
+
+<details>
+<summary>🧨 Bomberman — clearing the backlog</summary>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman clearing my contribution graph" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/bomberman-contribution-graph.svg">
+</picture>
+
+</details>
+
+<details>
+<summary>🧩 Tetris — making everything fit</summary>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/tetris-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/tetris-light.svg">
+  <img alt="My contribution graph with falling Tetris pieces" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/tetris-light.svg">
+</picture>
+
+</details>
+
+### 🏙️ A year in another dimension
+
+One day, one block. Some days build a skyline.
+
+![My isometric contribution calendar](https://raw.githubusercontent.com/greggubarev/greggubarev/main/isometric-calendar.svg)
 
 ---
 
 ### A small piece of the old internet
 
-You made it to my corner of GitHub. Here's the obligatory retro counter.
+You made it to my corner of GitHub.
 
 ![Profile views](https://count.getloli.com/@greggubarev?theme=nixietube-1)
-
-<img src="https://media.giphy.com/media/UqzU39fBvNAqs/giphy.gif" alt="Getting ready to work" width="400">
-
-<details>
-<summary>🚪 There is probably nothing behind this door.</summary>
-
-<br>
-
-```text
-$ cd /secret
-
-You found the quiet room.
-
-       ( (
-        ) )
-      ........
-      |      |]
-      \      /
-       `----'
-
-Take a coffee.
-The bug will still be there when you get back.
-```
-
-</details>
