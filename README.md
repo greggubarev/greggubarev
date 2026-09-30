@@ -15,6 +15,7 @@ I'm working with **AI**, with a background in **JavaScript**/**C#** and project 
 Every square has a story. The spaceship doesn't care.
 
 ![Space Shooter — my GitHub contributions](https://raw.githubusercontent.com/greggubarev/greggubarev/main/game.gif)
+
 ---
 
 ### A small piece of the old internet
