@@ -24,44 +24,19 @@ Every square has a story. The spaceship doesn't care.
   <img alt="Pac-Man running through my contribution graph" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/pacman-contribution-graph.svg">
 </picture>
 
-<details>
-<summary>💣 Minesweeper — every change is a calculated risk</summary>
-
-<br>
-
+### 💣 Minesweeper — every change is a calculated risk
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/minesweeper-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/minesweeper-contribution-graph.svg">
   <img alt="Minesweeper solving my contribution graph" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/minesweeper-contribution-graph.svg">
 </picture>
 
-</details>
-
-<details>
-<summary>🧨 Bomberman — clearing the backlog</summary>
-
-<br>
-
+### 🧨 Bomberman — clearing the backlog
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/bomberman-contribution-graph.svg">
   <img alt="Bomberman clearing my contribution graph" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/bomberman-contribution-graph.svg">
 </picture>
-
-</details>
-
-<details>
-<summary>🧩 Tetris — making everything fit</summary>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/tetris-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greggubarev/greggubarev/output/tetris-light.svg">
-  <img alt="My contribution graph with falling Tetris pieces" src="https://raw.githubusercontent.com/greggubarev/greggubarev/output/tetris-light.svg">
-</picture>
-
-</details>
 
 ### 🏙️ A year in another dimension
 
@@ -71,8 +46,6 @@ One day, one block. Some days build a skyline.
 
 ---
 
-### A small piece of the old internet
-
-You made it to my corner of GitHub.
+### You made it to my corner of GitHub.
 
 ![Profile views](https://count.getloli.com/@greggubarev?theme=nixietube-1)
