@@ -48,7 +48,13 @@ jobs:
           palette: github-dark
           animation_duration: "8"
           output_path: dist/tetris-dark.svg
-
+      - name: Loop Tetris animations
+        shell: bash
+        run: |
+          sed -i 's/repeatCount="1"/repeatCount="indefinite"/g' \
+            dist/tetris-light.svg \
+            dist/tetris-dark.svg
+            
       - name: Publish animations
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
