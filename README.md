@@ -10,14 +10,11 @@ I'm working with **AI**, with a background in **JavaScript**/**C#** and project 
 - 🏆 **2019:** recognized as a **freeCodeCamp Top Contributor**.
 - 🌍 **Community:** JavaScript contributor and moderator at **freeCodeCamp**.
 
-### 📖 You were here
+### 👾 My contributions, under attack
 
-Every old-school homepage needs a guestbook.
-Leave a hello, a terrible programming joke, or something you're building.
+Every square has a story. The spaceship doesn't care.
 
-[✍️ Sign the guestbook](https://github.com/greggubarev/greggubarev/issues/new?title=%5BGuestbook%5D%20Hello!&body=Hey%20Gregory!%20%F0%9F%91%8B%0A%0A)
-&nbsp; · &nbsp;
-[📖 Read the guestbook](https://github.com/greggubarev/greggubarev/issues?q=is%3Aissue%20%22%5BGuestbook%5D%22%20in%3Atitle)
+![Space Shooter — my GitHub contributions](https://raw.githubusercontent.com/greggubarev/greggubarev/main/game.gif)
 ---
 
 ### A small piece of the old internet
