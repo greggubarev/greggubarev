@@ -1,6 +1,6 @@
 # Hey, I'm Gregory 👋
 
-![Typing text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1400&color=D97732&width=600&height=45&lines=Working+with+AI.;Data+Engineering.;Still+debugging+the+unexpected.)
+![Typing text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1400&color=D97732&width=600&height=45&lines=Working+with+AI.;AI+Engineer.;Still+debugging+the+unexpected.)
 
 ### A little about me
 
